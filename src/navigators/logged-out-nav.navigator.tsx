@@ -1,5 +1,5 @@
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import Login from '../pages/login.page';
+import Login from '../screens/login.screen';
 
 export type LoggedOutNavStackRouteName = 'Login';
 
